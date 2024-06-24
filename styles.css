@@ -3,7 +3,8 @@ body {
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-
+    max-width: 100%;
+    min-width: 100%;
 }
 
 header {
